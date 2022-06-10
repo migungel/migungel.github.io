@@ -229,6 +229,12 @@ THE SOFTWARE.
 encode-utf8
 MIT
 
+ngx-infinite-scroll
+MIT
+
+ngx-spinner
+MIT
+
 qrcode
 MIT
 The MIT License (MIT)
