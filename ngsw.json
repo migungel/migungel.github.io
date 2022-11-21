@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669062691116,
+  "timestamp": 1669065751349,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,14 +12,14 @@
       },
       "urls": [
         "/524.4898f12df8b3d3cc.js",
-        "/928.a7c1b3d5d0d051ef.js",
+        "/928.01d93758a196c833.js",
         "/common.7a354c2ae1055f30.js",
         "/favicon.ico",
         "/index.html",
         "/main.b2b7739ceaa7ef48.js",
         "/manifest.webmanifest",
         "/polyfills.7c6579a11c20fc03.js",
-        "/runtime.66617ba03cfdd185.js",
+        "/runtime.0677718935fc1eb7.js",
         "/styles.52a993b2e5713d85.css"
       ],
       "patterns": []
@@ -55,7 +55,7 @@
   "dataGroups": [],
   "hashTable": {
     "/524.4898f12df8b3d3cc.js": "af7eb1aa916e1c6883f3f622bae9ea81e9c32f3a",
-    "/928.a7c1b3d5d0d051ef.js": "9241c18a8c541962c0ccf4816193bb04bf23b5ce",
+    "/928.01d93758a196c833.js": "cd2d840dd31ca16d9a4806f84fbef5856a3359a3",
     "/assets/header - copia.png": "b6105e7509dee051899029f455feb9772deae5e1",
     "/assets/header.png": "b2f5a6efb201326fcb7157f0f18a05f0dc74f55d",
     "/assets/icon_launcher.png": "ddd5fe33268b720771f9c996bfcf977513028503",
@@ -74,11 +74,11 @@
     "/bootstrap-icons.dba5e3b77b478961.woff": "a77e6a2f335f3fcb4f2930794907c88ed7de7ca1",
     "/common.7a354c2ae1055f30.js": "467abd4a361fdcd732858aac58548f2d7305bd71",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "757fbaf297e5adcc11b7990fe7e3c5378cc333a0",
+    "/index.html": "fdd803434fc6898e38afa0b6d8dedab18eb470fa",
     "/main.b2b7739ceaa7ef48.js": "fb1992e16689b88bd1b97497eb52f74119a791e3",
     "/manifest.webmanifest": "9f303be2bb076a47be9ff4bbf56d1177d01ef669",
     "/polyfills.7c6579a11c20fc03.js": "758a56862f2b92af0f970013faceebd57c06af00",
-    "/runtime.66617ba03cfdd185.js": "6f28d1e43ec318319bde95fc1655547727a6fb60",
+    "/runtime.0677718935fc1eb7.js": "e97d543eaed55352f6d03857c5b3bd47021ff82d",
     "/styles.52a993b2e5713d85.css": "b3bfee1c01213768128a40e3a0bb1e38ba9167df"
   },
   "navigationUrls": [
