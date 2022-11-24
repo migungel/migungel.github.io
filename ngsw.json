@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1669138122206,
+  "timestamp": 1669322145750,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/524.a244655110af4402.js",
-        "/928.2501eb80030402bd.js",
+        "/524.0cbb03962099fc86.js",
+        "/928.71e9a15542d324ca.js",
         "/common.7a354c2ae1055f30.js",
         "/favicon.ico",
         "/index.html",
-        "/main.b7269a58c011da64.js",
+        "/main.692f05b6feca385a.js",
         "/manifest.webmanifest",
         "/polyfills.7c6579a11c20fc03.js",
-        "/runtime.a01dc0752d0c7c33.js",
+        "/runtime.99b13c903e410989.js",
         "/styles.1912555d08d0439c.css"
       ],
       "patterns": []
@@ -54,8 +54,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/524.a244655110af4402.js": "578070bc50a91d6f69ffb50304f31e363a0a5a1b",
-    "/928.2501eb80030402bd.js": "2a2b836dd3012572c3e5cba1595f271cc870c1ff",
+    "/524.0cbb03962099fc86.js": "7028ad78837df873e252c64d182a245781b15a94",
+    "/928.71e9a15542d324ca.js": "d41fd48ba8e99d5c77c1c0e8d44b3b3f62ded3b2",
     "/assets/header - copia.png": "b6105e7509dee051899029f455feb9772deae5e1",
     "/assets/header.png": "b2f5a6efb201326fcb7157f0f18a05f0dc74f55d",
     "/assets/icon_launcher.png": "ddd5fe33268b720771f9c996bfcf977513028503",
@@ -74,11 +74,11 @@
     "/bootstrap-icons.dba5e3b77b478961.woff": "a77e6a2f335f3fcb4f2930794907c88ed7de7ca1",
     "/common.7a354c2ae1055f30.js": "467abd4a361fdcd732858aac58548f2d7305bd71",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "e2fe486f990d5b3ed2b4e3512c40e107cabf51c5",
-    "/main.b7269a58c011da64.js": "eb9efaa808b3c405b7f6d3d01d5f6d199de7215f",
+    "/index.html": "be851cc8c97d3f52b82dada24696c04a495aa9d8",
+    "/main.692f05b6feca385a.js": "f083331deed55140c9d1d004d3587433cca83b65",
     "/manifest.webmanifest": "9f303be2bb076a47be9ff4bbf56d1177d01ef669",
     "/polyfills.7c6579a11c20fc03.js": "758a56862f2b92af0f970013faceebd57c06af00",
-    "/runtime.a01dc0752d0c7c33.js": "f7564e6925d2ee07ac989d64abc010728037c3fa",
+    "/runtime.99b13c903e410989.js": "bf543cbd079fb448d8fee0434caf946f7eb12b46",
     "/styles.1912555d08d0439c.css": "f67688f4cec4219d7df37502a87b6d1ab0361cab"
   },
   "navigationUrls": [
